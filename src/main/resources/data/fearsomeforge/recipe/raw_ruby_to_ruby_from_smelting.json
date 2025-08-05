@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "ingredient": {
+  "item": "fearsomeforge:raw_ruby"
+},
+  "result": {
+    "count": 1,
+    "id": "fearsomeforge:ruby"
+  }
+}

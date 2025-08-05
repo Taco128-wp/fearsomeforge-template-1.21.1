@@ -1,0 +1,34 @@
+{
+  "item.fearsomeforge.example_item": "lol Item",
+  "item.fearsomeforge.magmatite": "Magmatite",
+  "item.fearsomeforge.raw_ruby": "Raw Ruby",
+  "item.fearsomeforge.ruby": "Ruby",
+  "item.fearsomeforge.raw_ruby_zoisite": "Raw Ruby Zoisite",
+  "item.fearsomeforge.raw_topaz": "Raw Topaz",
+  "item.fearsomeforge.raw_sapphire": "Raw Sapphire",
+  "item.fearsomeforge.sapphire": "Sapphire",
+  "item.fearsomeforge.molten_sapphire": "Molten Sapphire",
+  "item.fearsomeforge.molten_ruby": "Molten Ruby",
+  "item.fearsomeforge.synthetic_corundum": "Synthetic Corundum",
+  "item.fearsomeforge.crucible_smithing_tool": "Crucible Tool",
+  "item.fearsomeforge.pickaxe_head_template":"Pickaxe Head Template",
+  "item.fearsomeforge.pick_me": "Pick Me Downgrade",
+  "item.fearsomeforge.axe_head_template": "Axe Head Template",
+  "item.fearsomeforge.shovel_head_template": "Shovel Head Template",
+  "item.fearsomeforge.hoe_blade_template": "Hoe Blade Template",
+  "item.fearsomeforge.sword_blade_template": "Sword Blade Template",
+
+
+
+
+  "creativetab.fearsomeforge.ingredients": "Fearsome Ingredients",
+  "creativetab.fearsomeforge.ores": "Fearsome Ores",
+  "creativetab.fearsomeforge.parts": "Fearsome Parts",
+
+
+
+  "block.fearsomeforge.example_block": "lol Block",
+  "block.fearsomeforge.ruby_ore": "Ruby Ore",
+  "block.fearsomeforge.ruby_zoisite": "Ruby Zoisite",
+  "block.fearsomeforge.topaz_ore": "Topaz Ore"
+}

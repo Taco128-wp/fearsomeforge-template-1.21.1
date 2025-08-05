@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template":{
+    "item":"fearsomeforge:crucible_smithing_tool"
+  },
+  "base": {
+    "item":"fearsomeforge:molten_ruby"
+  },
+  "addition": {
+    "item": "fearsomeforge:molten_sapphire"
+  },
+  "result": {
+    "id": "fearsomeforge:synthetic_corundum",
+    "count": 1
+  }
+}

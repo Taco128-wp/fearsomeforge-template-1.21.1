@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "dAd",
+    "dbd",
+    "dCd"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone"
+    },
+    "b": {
+      "item": "minecraft:wooden_hoe"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "fearsomeforge:hoe_blade_template"
+  }
+}

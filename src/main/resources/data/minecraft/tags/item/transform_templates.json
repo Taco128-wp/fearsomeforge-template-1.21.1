@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "fearsomeforge:crucible_smithing_tool",
+    "fearsomeforge:pickaxe_head_template",
+    "fearsomeforge:axe_head_template",
+    "fearsomeforge:shovel_head_template",
+    "fearsomeforge:hoe_blade_template",
+    "fearsomeforge:sword_blade_template",
+  ]
+}

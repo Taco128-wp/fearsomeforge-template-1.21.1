@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "dAd",
+    "dbd",
+    "dCd"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:emerald"
+    },
+    "C": {
+      "item": "minecraft:gold_ingot"
+    },
+    "d": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "fearsomeforge:crucible_smithing_tool"
+  }
+}

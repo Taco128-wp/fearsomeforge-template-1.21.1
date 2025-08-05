@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fearsomeforge:ruby_ore",
+    "fearsomeforge:ruby_zoisite",
+    "fearsomeforge:topaz_ore",
+    "fearsomeforge:sapphire_ore"
+  ]
+}

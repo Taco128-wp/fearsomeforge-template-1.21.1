@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAb",
+    "AAb",
+    "bb "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:magma_block"
+    },
+    "b": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "fearsomeforge:magmatite"
+  }
+}
