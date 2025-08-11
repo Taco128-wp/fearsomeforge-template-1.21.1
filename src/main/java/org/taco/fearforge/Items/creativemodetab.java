@@ -33,7 +33,8 @@ public class creativemodetab {
                 output.accept(Ores.SYNTHETIC_CORUNDUM);
                 output.accept(OreBlocks.SAPPHIRE_ORE);
                 output.accept(Ores.TURQUOISE);
-                output.accept(Ores.Raw_TURQUOISE);
+                output.accept(Ores.RAW_TURQUOISE);
+
 
             })
 

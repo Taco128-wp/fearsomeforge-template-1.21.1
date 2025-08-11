@@ -12,6 +12,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 import org.taco.fearforge.FearsomeForge;
 import org.taco.fearforge.Items.Ores;
 
+import java.util.Objects;
 import java.util.function.Supplier;
 
 import static org.taco.fearforge.FearsomeForge.ITEMS;
@@ -46,6 +47,12 @@ public static final DeferredBlock<Block> SAPPHIRE_ORE = BLOCKS.register("sapphir
 
 public static final DeferredItem<BlockItem> SAPPHIRE_ORE_ITEM = ITEMS.registerSimpleBlockItem(
         "sapphire_ore", SAPPHIRE_ORE);
+
+public static final DeferredBlock<Block> TURQUOISE_ORE = BLOCKS.register("turquoise_ore",
+        () -> new Block(BlockBehaviour.Properties.of().strength(1f).sound(SoundType.STONE)));
+
+public static final DeferredItem<BlockItem> TURQUOISE_ORE_ITEM = ITEMS.registerSimpleBlockItem(
+        "turquoise_ore", TURQUOISE_ORE);
 
 
     public  static void register(IEventBus eventBus){
