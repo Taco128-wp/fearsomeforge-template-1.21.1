@@ -32,6 +32,12 @@ public class Ores {
            ITEMS.register("molten_sapphire", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> SYNTHETIC_CORUNDUM = //done
             ITEMS.register("synthetic_corundum", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> TURQUOISE =
+            ITEMS.register("turquoise", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> Raw_TURQUOISE =
+            ITEMS.register("raw_turquoise", () -> new Item(new Item.Properties()));
+
+        // move to upgrade parts class in next version
     public static final DeferredItem<Item> CRUCIBLE_SMITHING_TOOL = //done
            ITEMS.register("crucible_smithing_tool", ForgeToolUpgrade::new);
 
