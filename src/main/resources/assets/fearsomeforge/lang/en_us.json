@@ -22,6 +22,7 @@
 
 
 
+
   "creativetab.fearsomeforge.ingredients": "Fearsome Ingredients",
   "creativetab.fearsomeforge.ores": "Fearsome Ores",
   "creativetab.fearsomeforge.parts": "Fearsome Parts",
@@ -31,5 +32,7 @@
   "block.fearsomeforge.example_block": "lol Block",
   "block.fearsomeforge.ruby_ore": "Ruby Ore",
   "block.fearsomeforge.ruby_zoisite": "Ruby Zoisite",
-  "block.fearsomeforge.topaz_ore": "Topaz Ore"
+  "block.fearsomeforge.topaz_ore": "Topaz Ore",
+  "block.fearsomeforge.turquoise_ore": "Turquoise ore",
+  "block.fearsomeforge.sapphire_ore": "Sapphire Ore"
 }

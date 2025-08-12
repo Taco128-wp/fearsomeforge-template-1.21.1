@@ -34,6 +34,8 @@ public class creativemodetab {
                 output.accept(OreBlocks.SAPPHIRE_ORE);
                 output.accept(Ores.TURQUOISE);
                 output.accept(Ores.RAW_TURQUOISE);
+                output.accept(OreBlocks.RUBY_ORE);
+                output.accept(OreBlocks.TURQUOISE_ORE);
 
 
             })
